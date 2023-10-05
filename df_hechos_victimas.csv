@@ -1,0 +1,179 @@
+id,n_victimas,lugar_del_hecho,comuna,altura,participantes,calle,acusado,tipo_de_calle,hora,id_hecho,fecha,aaaa,mm,dd,rol,victima,sexo,edad,fecha_fallecimiento
+2020-0001,1,uriarte y loyola,15,sin dato,peaton-auto,uriarte,auto,calle,10:40:00,2020-0001,2020-01-04,2020,1,4,peaton,peaton,femenino,87,2020-01-04
+2020-0002,1,saraza y varela av.,7,sin dato,moto-objeto fijo,saraza,objeto fijo,avenida,20:00:00,2020-0002,2020-01-05,2020,1,5,conductor,moto,masculino,36,2020-01-07
+2020-0003,1,rivadavia av. y combate de los pozos,3,sin dato,peaton-auto,rivadavia av.,auto,avenida,06:00:00,2020-0003,2020-01-11,2020,1,11,peaton,peaton,masculino,44,2020-01-11
+2020-0004,1,rodriguez peña y rivadavia av.,1,sin dato,peaton-pasajeros,rodriguez pe?a,pasajeros,avenida,21:40:00,2020-0004,2020-01-14,2020,1,14,peaton,peaton,masculino,82,2020-01-15
+2020-0005,1,24 de noviembre y san juan av.,3,sin dato,moto-pasajeros,24 de noviembre,pasajeros,avenida,06:00:00,2020-0005,2020-01-14,2020,1,14,conductor,moto,masculino,25,2020-02-10
+2020-0006,1,lafuente av. 2250,8,2250.0,moto-cargas,lafuente av.,cargas,avenida,12:55:00,2020-0006,2020-01-20,2020,1,20,conductor,moto,masculino,23,2020-01-20
+2020-0007,1,chile y lima ,1,sin dato,peaton-moto,chile,moto,calle,00:37:00,2020-0007,2020-01-27,2020,1,27,peaton,peaton,masculino,52,2020-01-27
+2020-0008,1,cordoba av. y jean jaures,2,sin dato,moto-cargas,cordoba av.,cargas,avenida,07:10:00,2020-0008,2020-01-30,2020,1,30,conductor,moto,masculino,49,2020-01-30
+2020-0009,1,"peron, juan domingo, tte. general y salguero, jeronimo",5,sin dato,peaton-auto,"peron, juan domingo, tte. general",auto,calle,14:50:00,2020-0009,2020-02-04,2020,2,4,peaton,peaton,masculino,48,2020-02-05
+2020-0010,1,9 de julio av. y san juan av.,1,sin dato,moto-objeto fijo,9 de julio av.,objeto fijo,avenida,05:45:00,2020-0010,2020-02-08,2020,2,8,conductor,moto,masculino,0,2020-02-08
+2020-0011,1,colombres 466,5,466.0,moto-cargas,colombres,cargas,calle,11:29:00,2020-0011,2020-02-12,2020,2,12,conductor,moto,masculino,31,2020-02-12
+2020-0012,1,mexico 2860,3,2860.0,peaton-moto,mexico,moto,calle,21:00:00,2020-0012,2020-02-18,2020,2,18,peaton,peaton,femenino,66,2020-02-18
+2020-0013,1,combatientes de malvinas av. y triunvitaro av.,15,sin dato,peaton-moto,combatientes de malvinas av.,moto,avenida,12:00:00,2020-0013,2020-02-20,2020,2,20,peaton,peaton,femenino,58,2020-03-03
+2020-0014,1,bermudez y nogoya,11,sin dato,moto-pasajeros,bermudez,pasajeros,calle,02:14:00,2020-0014,2020-02-27,2020,2,27,conductor,moto,masculino,0,2020-02-27
+2020-0015,1,brasil av. y paseo colon av.,1,sin dato,moto-pasajeros,brasil av.,pasajeros,avenida,14:30:00,2020-0015,2020-02-28,2020,2,28,conductor,moto,masculino,29,2020-02-28
+2020-0016,1,"alem,leandro n. av. 770",1,770.0,peaton-pasajeros,"alem, leandro n. av.",pasajeros,avenida,13:00:00,2020-0016,2020-02-29,2020,2,29,peaton,peaton,masculino,68,2020-03-09
+2020-0017,1,belgrano av. y rincon,3,sin dato,peaton-auto,belgrano av.,auto,avenida,23:00:00,2020-0017,2020-03-05,2020,3,5,peaton,peaton,masculino,0,2020-03-05
+2020-0018,1,"udaondo, guillermo av. 901",13,901.0,moto-objeto fijo,"udaondo, guillermo av.",objeto fijo,avenida,14:00:00,2020-0018,2020-03-09,2020,3,9,conductor,moto,masculino,31,2020-03-09
+2020-0019,1,constitucion y castro,5,sin dato,peaton-auto,constitucion,auto,calle,21:00:00,2020-0019,2020-03-10,2020,3,10,peaton,peaton,femenino,80,2020-03-10
+2020-0020,1,"pueyrredon av. y gomez, valentin",3,sin dato,peaton-moto,pueyrredon av.,moto,avenida,17:30:00,2020-0020,2020-03-13,2020,3,13,peaton,peaton,femenino,74,2020-03-17
+2020-0021,1,"bravo, mario 1279",2,1279.0,peaton-auto,"bravo, mario",auto,calle,16:50:00,2020-0021,2020-03-14,2020,3,14,peaton,peaton,femenino,87,2020-03-14
+2020-0022,1,"dellepiane, luis, tte. gral. y escalada av.",9,sin dato,auto-cargas,autopista dellepiane luis tte. gral.,cargas,autopista,06:15:00,2020-0022,2020-04-07,2020,4,7,pasajero_acompañante,auto,masculino,44,2020-04-07
+2020-0023,1,"araoz de lamadrid, gregorio, gral. y brown, alte. av.",4,sin dato,auto-cargas,"araoz de lamadrid, gregorio, gral.",cargas,avenida,18:42:00,2020-0023,2020-04-09,2020,4,9,conductor,auto,masculino,44,2020-05-03
+2020-0024,1,murguiondo 1339,9,1339.0,auto-auto,murguiondo,auto,calle,07:58:00,2020-0024,2020-04-24,2020,4,24,conductor,auto,masculino,53,2020-04-24
+2020-0025,1,rivadavia av. 2551,3,2551.0,peaton-auto,rivadavia av.,auto,avenida,05:35:00,2020-0025,2020-05-12,2020,5,12,peaton,peaton,masculino,0,2020-05-12
+2020-0026,1,"lugones, leopoldo av. km 6,1",14,sin dato,moto-objeto fijo,"lugones, leopoldo av.",objeto fijo,autopista,06:40:00,2020-0026,2020-05-17,2020,5,17,conductor,moto,masculino,28,2020-05-17
+2020-0027,1,"dellepiane, luis, tte. gral. y montiel",8,sin dato,peaton-cargas,"dellepiane, luis, tte. gral.",cargas,avenida,08:00:00,2020-0027,2020-05-18,2020,5,18,peaton,peaton,masculino,76,2020-05-18
+2020-0028,1,"scalabrini ortiz, raul av. y warnes av.",15,sin dato,peaton-pasajeros,"scalabrini ortiz, raul av.",pasajeros,avenida,10:00:00,2020-0028,2020-05-19,2020,5,19,peaton,peaton,masculino,91,2020-05-23
+2020-0029,1,"paz, gral. av. y roffo, angel h., dr.",9,sin dato,peaton-pasajeros,"paz, gral. av.",pasajeros,gral paz,14:00:00,2020-0029,2020-06-10,2020,6,10,peaton,peaton,masculino,80,2020-06-12
+2020-0030,1,san martin av. 1550,6,1550.0,multiple,san martin av.,multiple,avenida,15:00:00,2020-0030,2020-06-16,2020,6,16,conductor,moto,masculino,40,2020-06-16
+2020-0031,1,"garzon, eugenio, gral. av. y larraya",9,sin dato,moto-cargas,"garzon, eugenio, gral. av.",cargas,avenida,08:00:00,2020-0031,2020-06-30,2020,6,30,conductor,moto,masculino,29,2020-06-30
+2020-0032,1,corrientes av. y serrano,15,sin dato,moto-auto,corrientes av.,auto,avenida,23:00:00,2020-0032,2020-07-10,2020,7,10,conductor,moto,masculino,21,2020-07-10
+2020-0033,1,"paz, gral. av. y del libertador av.",13,sin dato,auto-objeto fijo,"paz, gral. av.",objeto fijo,gral paz,06:25:00,2020-0033,2020-07-19,2020,7,19,conductor,auto,masculino,32,2020-07-19
+2020-0034,1,"mitre, bartolome y anchorena, tomas manuel de, dr.",3,sin dato,peaton-auto,"mitre, bartolome",auto,calle,03:20:00,2020-0034,2020-08-02,2020,8,2,peaton,peaton,femenino,0,2020-08-02
+2020-0035,1,"au 25 de mayo altura pumacahua y recuero, casimiro, tte. cnel.",7,sin dato,moto-pasajeros,autopista 25 de mayo,pasajeros,autopista,05:30:00,2020-0035,2020-08-04,2020,8,4,conductor,moto,masculino,40,2020-08-04
+2020-0036,1,"scalabrini ortiz, raul av. y paraguay",14,sin dato,peaton-moto,"scalabrini ortiz, raul av.",moto,avenida,18:40:00,2020-0036,2020-08-07,2020,8,7,peaton,peaton,masculino,72,2020-08-22
+2020-0037,1,"fernandez de la cruz, f., gral. av. y varela av.",8,sin dato,peaton-auto,"fernandez de la cruz, f., gral. av.",auto,avenida,04:30:00,2020-0037,2020-08-29,2020,8,29,peaton,peaton,masculino,38,2020-08-29
+2020-0038,2,"las heras general av. y diaz, cnel. av.",14,sin dato,auto-auto,las heras general av.,auto,avenida,04:00:00,2020-0038,2020-08-30,2020,8,30,conductor,auto,masculino,46,2020-08-30
+2020-0038,2,"las heras general av. y diaz, cnel. av.",14,sin dato,auto-auto,las heras general av.,auto,avenida,04:00:00,2020-0038,2020-08-30,2020,8,30,conductor,auto,masculino,64,2020-08-30
+2020-0039,1,murguiondo 2700,9,sin dato,peaton-cargas,murguiondo,cargas,calle,19:17:42,2020-0039,2020-09-01,2020,9,1,peaton,peaton,masculino,44,2020-09-01
+2020-0040,1,"castillo, ramon s., pres. av. y calle 12",2,sin dato,auto-objeto fijo,"castillo, ramon s., pres. av.",objeto fijo,avenida,03:30:00,2020-0040,2020-09-12,2020,9,12,conductor,auto,masculino,0,2020-09-12
+2020-0041,1,"curapaligue y peron, eva av.",7,sin dato,moto-pasajeros,curapaligue,pasajeros,avenida,01:45:00,2020-0041,2020-09-28,2020,9,28,conductor,moto,masculino,34,2020-09-28
+2020-0042,1,"diaz, ana y soldado de la frontera av.",8,sin dato,peaton-pasajeros,"diaz, ana",pasajeros,avenida,17:10:00,2020-0042,2020-09-29,2020,9,29,peaton,peaton,femenino,53,2020-09-29
+2020-0043,1,"alem, leandro n. av. y paraguay",1,sin dato,peaton-pasajeros,"alem, leandro n. av.",pasajeros,avenida,17:20:00,2020-0043,2020-09-30,2020,9,30,peaton,peaton,masculino,64,2020-09-30
+2020-0044,1,la plata av. e independencia,6,sin dato,auto-auto,la plata av.,auto,avenida,00:20:00,2020-0044,2020-10-05,2020,10,5,conductor,auto,masculino,43,2020-10-05
+2020-0045,1,"paz, gral. av. y 27 de febrero av.",8,sin dato,auto-cargas,"paz, gral. av.",cargas,gral paz,03:00:00,2020-0045,2020-10-19,2020,10,19,conductor,auto,masculino,50,2020-10-19
+2020-0046,1,"nazca av. y carranza, adolfo p.",11,sin dato,moto-moto,nazca av.,moto,avenida,21:00:00,2020-0046,2020-10-27,2020,10,27,conductor,moto,masculino,41,2020-10-27
+2020-0047,1,autopista campora altura lacarra av.,9,sin dato,peaton-cargas,autopista presidente hector j. campora,cargas,autopista,14:00:00,2020-0047,2020-10-27,2020,10,27,peaton,peaton,masculino,15,2020-10-27
+2020-0048,1,dorrego av. 614,15,614.0,moto-objeto fijo,dorrego av.,objeto fijo,avenida,20:20:00,2020-0048,2020-10-29,2020,10,29,conductor,moto,masculino,41,2020-10-29
+2020-0049,1,"del libertador av. y ramos mejia, jose maria, dr. av.",1,sin dato,peaton-auto,del libertador av.,auto,avenida,20:00:00,2020-0049,2020-10-30,2020,10,30,peaton,peaton,masculino,36,2020-10-30
+2020-0050,1,santa fe av. y godoy cruz,14,sin dato,peaton-moto,santa fe av.,moto,avenida,22:00:00,2020-0050,2020-11-01,2020,11,1,peaton,peaton,femenino,28,2020-11-01
+2020-0051,1,avellaneda av. y mercedes,10,sin dato,moto-auto,avellaneda av.,auto,avenida,00:40:00,2020-0051,2020-11-05,2020,11,5,conductor,moto,masculino,49,2020-11-05
+2020-0052,1,tucuman y pueyrredon av.,3,sin dato,bicicleta-cargas,tucuman,cargas,avenida,06:50:00,2020-0052,2020-11-07,2020,11,7,ciclista,bicicleta,masculino,44,2020-11-07
+2020-0053,1,"alcorta, amancio av. y einstein, alberto",4,sin dato,auto-auto,"alcorta, amancio av.",auto,avenida,03:30:00,2020-0053,2020-11-09,2020,11,9,pasajero_acompañante,auto,masculino,27,2020-11-09
+2020-0054,1,inclan y alberti,4,sin dato,bicicleta-auto,inclan,auto,calle,09:00:00,2020-0054,2020-11-19,2020,11,19,ciclista,bicicleta,masculino,59,2020-11-23
+2020-0055,1,olazabal av. 5437,12,5437.0,peaton-cargas,olazabal av.,cargas,avenida,12:30:00,2020-0055,2020-11-19,2020,11,19,peaton,peaton,masculino,91,2020-12-11
+2020-0056,1,"paz, gral. av. y doctor ramon carrillo",8,sin dato,moto-cargas,"paz, gral. av.",cargas,gral paz,13:00:00,2020-0056,2020-11-21,2020,11,21,conductor,moto,femenino,34,2020-11-21
+2020-0057,1,"nazca av. y viale, luis",11,sin dato,peaton-auto,nazca av.,auto,avenida,07:45:00,2020-0057,2020-11-23,2020,11,23,peaton,peaton,masculino,84,2020-11-23
+2020-0058,1,"olivera av. y falcon, ramon l., cnel.",10,sin dato,peaton-auto,olivera av.,auto,avenida,16:00:00,2020-0058,2020-11-24,2020,11,24,peaton,peaton,masculino,57,2020-11-25
+2020-0059,1,brasil 1100,1,1100.0,peaton-pasajeros,brasil,pasajeros,calle,06:35:00,2020-0059,2020-12-01,2020,12,1,peaton,peaton,femenino,49,2020-12-14
+2020-0060,1,"homero y peron, eva av.",9,sin dato,peaton-moto,homero,moto,avenida,20:30:00,2020-0060,2020-12-03,2020,12,3,peaton,peaton,femenino,69,2020-12-03
+2020-0061,1,"cantilo, int. y udaondo, guillermo av.",13,sin dato,moto-cargas,"cantilo, int.",cargas,autopista,14:40:00,2020-0061,2020-12-03,2020,12,3,conductor,moto,masculino,45,2020-12-04
+2020-0062,1,moreno 1845,3,1845.0,bicicleta-pasajeros,moreno,pasajeros,calle,17:19:00,2020-0062,2020-12-04,2020,12,4,ciclista,bicicleta,masculino,47,2020-12-04
+2020-0063,2,nueva york y alta gracia,11,sin dato,peaton_moto-moto,nueva york,moto,calle,07:10:00,2020-0063,2020-12-05,2020,12,5,peaton,peaton,masculino,38,2020-12-05
+2020-0063,2,nueva york y alta gracia,11,sin dato,peaton_moto-moto,nueva york,moto,calle,07:10:00,2020-0063,2020-12-05,2020,12,5,pasajero_acompañante,moto,masculino,21,2020-12-05
+2020-0065,1,"paz, gral. av. y goyeneche, roberto parque av.",12,sin dato,moto-auto,"paz, gral. av.",auto,gral paz,16:00:00,2020-0065,2020-12-05,2020,12,5,conductor,moto,masculino,24,2020-12-06
+2020-0066,1,autopista perito moreno altura estacion de tren villa luro,10,sin dato,moto-objeto fijo,autopista perito moreno,objeto fijo,autopista,04:30:00,2020-0066,2020-12-07,2020,12,7,conductor,moto,masculino,27,2020-12-07
+2020-0067,1,saenz av. y beazley,4,sin dato,peaton-pasajeros,saenz av.,pasajeros,avenida,22:00:00,2020-0067,2020-12-11,2020,12,11,peaton,peaton,masculino,51,2020-12-11
+2020-0068,1,del libertador av. y austria,2,sin dato,moto-auto,del libertador av.,auto,avenida,20:30:00,2020-0068,2020-12-12,2020,12,12,conductor,moto,masculino,71,2020-12-20
+2020-0069,1,"independencia av. y saenz peña, luis, pres.",1,sin dato,moto-pasajeros,independencia av.,pasajeros,avenida,05:20:00,2020-0069,2020-12-15,2020,12,15,pasajero_acompañante,moto,masculino,25,2020-12-15
+2020-0070,1,"callao av. y las heras, general",2,sin dato,peaton-pasajeros,callao av.,pasajeros,avenida,15:35:00,2020-0070,2020-12-17,2020,12,17,peaton,peaton,femenino,81,2020-12-22
+2020-0071,1,san pedrito av. y directorio av.,7,sin dato,peaton-auto,san pedrito av.,auto,avenida,23:00:00,2020-0071,2020-12-17,2020,12,17,peaton,peaton,masculino,4,2020-12-17
+2020-0072,1,"jujuy av. y carlos, calvo",3,sin dato,bicicleta-auto,jujuy av.,auto,avenida,03:30:00,2020-0072,2020-12-19,2020,12,19,ciclista,bicicleta,masculino,42,2020-12-19
+2020-0073,1,27 de febrero av. y escalada av.,8,sin dato,moto-objeto fijo,27 de febrero av.,objeto fijo,avenida,07:40:00,2020-0073,2020-12-20,2020,12,20,conductor,moto,masculino,56,2020-12-20
+2020-0074,1,bogota y nazca av.,7,sin dato,auto-auto,bogota,auto,avenida,21:00:00,2020-0074,2020-12-20,2020,12,20,conductor,auto,masculino,39,2020-12-20
+2020-0075,1,corrientes av. y 9 de julio av.,1,sin dato,peaton-pasajeros,corrientes av.,pasajeros,avenida,14:00:00,2020-0075,2020-12-23,2020,12,23,peaton,peaton,masculino,23,2020-12-23
+2020-0076,1,alvarez jonte av. y chivilcoy,10,sin dato,auto-pasajeros,alvarez jonte av.,pasajeros,avenida,12:30:00,2020-0076,2020-12-24,2020,12,24,conductor,auto,femenino,78,2021-01-17
+2020-0077,2,san martin av. y punta arenas,15,sin dato,moto-auto,san martin av.,auto,avenida,06:40:00,2020-0077,2020-12-25,2020,12,25,conductor,moto,femenino,30,2020-12-25
+2020-0077,2,san martin av. y punta arenas,15,sin dato,moto-auto,san martin av.,auto,avenida,06:40:00,2020-0077,2020-12-25,2020,12,25,pasajero_acompañante,moto,femenino,24,2020-12-25
+2020-0078,1,barco centenera del 1118,7,1118.0,bicicleta-pasajeros,barco centenera del,pasajeros,calle,05:50:00,2020-0078,2020-12-25,2020,12,25,ciclista,bicicleta,masculino,26,2020-12-25
+2020-0079,1,"paz, gral. av. y acceso norte - panamericana",12,sin dato,moto-objeto fijo,"paz, gral. av.",objeto fijo,gral paz,04:15:00,2020-0079,2020-12-27,2020,12,27,conductor,moto,masculino,28,2020-12-27
+2021-0001,1,au frondizi km. 3,1,sin dato,moto-auto,autopista 1 sur presidente arturo frondizi,auto,autopista,18:00:00,2021-0001,2021-01-06,2021,1,6,conductor,moto,masculino,36,2021-01-06
+2021-0002,1,"castro, emilio av. y murguiondo",9,sin dato,moto-cargas,"castro, emilio av.",cargas,avenida,10:20:00,2021-0002,2021-01-07,2021,1,7,conductor,moto,femenino,47,2021-01-07
+2021-0003,1,"au 25 de mayo km. 3,7",7,sin dato,moto-objeto fijo,autopista 25 de mayo,objeto fijo,autopista,07:40:00,2021-0003,2021-01-10,2021,1,10,conductor,moto,masculino,27,2021-01-10
+2021-0004,1,caseros av. y guarani,5,sin dato,peaton-cargas,caseros av.,cargas,avenida,09:12:18,2021-0004,2021-01-11,2021,1,11,peaton,peaton,femenino,61,2021-01-11
+2021-0005,1,"peron, eva av. 3800",9,3800.0,peaton-auto,"peron, eva av.",auto,avenida,21:30:00,2021-0005,2021-01-11,2021,1,11,peaton,peaton,masculino,73,2021-01-14
+2021-0006,1,au illia y sarmiento av.,14,sin dato,moto-cargas,autopista arturo illia,cargas,autopista,21:00:00,2021-0006,2021-01-12,2021,1,12,pasajero_acompañante,moto,femenino,23,2021-01-12
+2021-0007,1,de los constituyentes av. y giribone,15,sin dato,moto-moto,de los constituyentes av.,moto,avenida,10:00:00,2021-0007,2021-01-18,2021,1,18,conductor,moto,masculino,84,2021-01-26
+2021-0008,1,"saenz av. y rabanal, francisco, intendente av.",4,sin dato,peaton-pasajeros,saenz av.,pasajeros,avenida,23:30:00,2021-0008,2021-01-22,2021,1,22,peaton,peaton,masculino,28,2021-01-22
+2021-0009,1,paysandu y gaona,6,sin dato,moto-objeto fijo,paysandu,objeto fijo,avenida,05:30:00,2021-0009,2021-01-23,2021,1,23,conductor,moto,masculino,31,2021-01-23
+2021-0010,1,"paz, gral. av. y balbin, ricardo, dr. av. ",12,sin dato,moto-auto,"paz, gral. av.",auto,gral paz,08:00:00,2021-0010,2021-01-23,2021,1,23,conductor,moto,masculino,28,2021-01-23
+2021-0011,1,santa fe av. 1675,2,1675.0,peaton-auto,santa fe av.,auto,avenida,01:04:26,2021-0011,2021-01-27,2021,1,27,peaton,peaton,masculino,21,2021-01-27
+2021-0012,1,au dellepiane y guamini,8,sin dato,peaton-auto,"dellepiane, luis, tte. gral.",auto,autopista,20:07:22,2021-0012,2021-01-29,2021,1,29,peaton,peaton,masculino,0,2021-01-29
+2021-0013,1,"falcon, ramon l., cnel. y olivera av.",10,sin dato,moto-objeto fijo,"falcon, ramon l.,cnel.",objeto fijo,avenida,06:10:00,2021-0013,2021-01-31,2021,1,31,conductor,moto,masculino,41,2021-01-31
+2021-0014,1,san martin av. y nogoya,15,sin dato,peaton-auto,san martin av.,auto,avenida,00:50:00,2021-0014,2021-02-02,2021,2,2,peaton,peaton,masculino,28,2021-02-18
+2021-0015,1,san martin av. y tinogasta,15,sin dato,moto-objeto fijo,san martin av.,objeto fijo,avenida,03:05:00,2021-0015,2021-02-06,2021,2,6,conductor,moto,masculino,26,2021-02-06
+2021-0016,1,"fernandez de la cruz, f., gral. av. y de la torre, lisandro",8,sin dato,auto-objeto fijo,"fernandez de la cruz, f., gral. av.",objeto fijo,avenida,05:50:00,2021-0016,2021-02-14,2021,2,14,conductor,auto,masculino,22,2021-02-14
+2021-0017,1,salta y caseros av.,1,sin dato,moto-pasajeros,salta,pasajeros,avenida,04:10:00,2021-0017,2021-02-17,2021,2,17,conductor,moto,masculino,33,2021-02-17
+2021-0018,1,"jaures, jean y peron, juan domingo, tte. general",3,sin dato,peaton-auto,"jaures, jean",auto,calle,19:00:00,2021-0018,2021-02-20,2021,2,20,peaton,peaton,masculino,36,2021-03-08
+2021-0019,1,"triunvirato av. y larralde, crisologo av.",12,sin dato,moto-objeto fijo,triunvirato av.,objeto fijo,avenida,01:20:00,2021-0019,2021-02-21,2021,2,21,conductor,moto,masculino,30,2021-02-21
+2021-0020,1,potosi y gascon,5,sin dato,peaton-cargas,potosi,cargas,calle,15:00:00,2021-0020,2021-02-21,2021,2,21,peaton,peaton,femenino,0,2021-02-21
+2021-0021,1,"yrigoyen, hipolito y  24 de noviembre",3,sin dato,moto-objeto fijo,"yrigoyen, hipolito",objeto fijo,calle,05:30:00,2021-0021,2021-02-26,2021,2,26,conductor,moto,masculino,39,2021-03-04
+2021-0022,1,del libertador av. y roosevelt franklin d.,13,sin dato,pasajeros-sd,del libertador av.,sd,avenida,12:00:00,2021-0022,2021-02-28,2021,2,28,pasajero_acompañante,pasajeros,masculino,68,2021-03-06
+2021-0023,1,"au buenos aires la plata  km 4,5",4,sin dato,moto-cargas,autopista buenos aires - la plata,cargas,autopista,09:20:00,2021-0023,2021-03-01,2021,3,1,conductor,moto,masculino,24,2021-03-01
+2021-0024,1,"peron, eva av. y piedra buena av",9,sin dato,bicicleta-cargas,"peron, eva av.",cargas,avenida,16:30:00,2021-0024,2021-03-03,2021,3,3,ciclista,bicicleta,masculino,5,2021-03-03
+2021-0025,1,"paz, gral. av. y dellepiane, luis, tte. gral",8,sin dato,moto-otro,"paz, gral. av.",otro,gral paz,03:45:00,2021-0025,2021-03-11,2021,3,11,conductor,moto,masculino,37,2021-03-11
+2021-0026,1,"au frondizi altura quinquela martin, benito",4,sin dato,moto-objeto fijo,autopista 1 sur presidente arturo frondizi,objeto fijo,autopista,02:35:00,2021-0026,2021-03-15,2021,3,15,conductor,moto,masculino,36,2021-03-15
+2021-0027,1,"paz, gral. av. y donado",12,sin dato,moto-cargas,"paz, gral. av.",cargas,gral paz,15:30:00,2021-0027,2021-03-16,2021,3,16,conductor,moto,femenino,19,2021-03-16
+2021-0028,1,"corea av. y torres y tenorio, pres",7,sin dato,peaton-pasajeros,corea av.,pasajeros,avenida,17:20:00,2021-0028,2021-03-29,2021,3,29,peaton,peaton,masculino,0,2021-03-29
+2021-0029,1,"falcon, ramon l., cnel. y san pedrito av.",7,sin dato,auto-auto,"falcon, ramon l.,cnel.",auto,avenida,18:05:00,2021-0029,2021-03-31,2021,3,31,conductor,auto,masculino,26,2021-04-02
+2021-0030,1,finochietto enrique dr. 1623,4,1623.0,peaton-pasajeros,finochietto enrique dr.,pasajeros,calle,18:30:00,2021-0030,2021-04-03,2021,4,3,peaton,peaton,masculino,36,2021-04-07
+2021-0031,1,9 de julio av. e independencia av.,1,sin dato,peaton-cargas,9 de julio av.,cargas,avenida,10:29:00,2021-0031,2021-04-07,2021,4,7,peaton,peaton,femenino,68,2021-04-11
+2021-0032,1,"au cantilo y guiraldes, int.",13,sin dato,peaton-moto,"cantilo, int.",moto,autopista,19:55:00,2021-0032,2021-04-10,2021,4,10,peaton,peaton,masculino,60,2021-04-29
+2021-0033,1,au 25 de mayo altura bajada boedo av.,5,sin dato,auto-objeto fijo,autopista 25 de mayo,objeto fijo,autopista,17:50:00,2021-0033,2021-04-14,2021,4,14,conductor,auto,masculino,33,2021-04-14
+2021-0034,1,"alcorta, amancio av. y zavaleta",4,sin dato,moto-cargas,"alcorta, amancio av.",cargas,avenida,14:40:00,2021-0034,2021-04-19,2021,4,19,pasajero_acompañante,moto,femenino,26,2021-04-19
+2021-0035,1,"janer, ana maria y lafuente av.",8,sin dato,moto-cargas,"janer, ana maria",cargas,avenida,09:20:00,2021-0035,2021-05-03,2021,5,3,conductor,moto,masculino,24,2021-05-03
+2021-0036,1,"paz, gral. av. y mosconi general av.",11,sin dato,moto-objeto fijo,"paz, gral. av.",objeto fijo,gral paz,06:00:00,2021-0036,2021-05-09,2021,5,9,conductor,moto,masculino,36,2021-05-09
+2021-0037,1,"monroe y balbin, ricardo, dr. av.",13,sin dato,peaton-pasajeros,monroe,pasajeros,avenida,07:10:00,2021-0037,2021-05-11,2021,5,11,peaton,peaton,femenino,58,2021-05-11
+2021-0038,1,"justo, juan b. av. y santa fe av.",14,sin dato,moto-cargas,"justo, juan b. av.",cargas,avenida,11:40:00,2021-0038,2021-05-14,2021,5,14,conductor,moto,femenino,44,2021-05-14
+2021-0039,1,"oliden y alberdi, juan bautista av.",9,sin dato,bicicleta-auto,oliden,auto,avenida,12:09:00,2021-0039,2021-05-15,2021,5,15,ciclista,bicicleta,masculino,86,2021-06-05
+2021-0040,1,"paz, gral. av. y del libertador av.",13,sin dato,moto-auto,"paz, gral. av.",auto,gral paz,05:50:00,2021-0040,2021-05-20,2021,5,20,conductor,moto,masculino,27,2021-05-20
+2021-0041,1,del libertador av. y casares av.,14,sin dato,peaton-pasajeros,del libertador av.,pasajeros,avenida,08:30:00,2021-0041,2021-05-20,2021,5,20,peaton,peaton,masculino,75,2021-05-20
+2021-0042,1,rivadavia av. 10900,9,10900.0,peaton-pasajeros,rivadavia av.,pasajeros,avenida,05:00:00,2021-0042,2021-05-21,2021,5,21,peaton,peaton,masculino,39,2021-05-21
+2021-0043,1,"alberdi, juan bautista av. y pilar",9,sin dato,peaton-auto,"alberdi, juan bautista av.",auto,avenida,18:26:00,2021-0043,2021-05-22,2021,5,22,peaton,peaton,masculino,50,2021-05-22
+2021-0044,1,"peron, eva av. y acosta, mariano",9,sin dato,moto-objeto fijo,"peron, eva av.",objeto fijo,avenida,02:00:00,2021-0044,2021-05-25,2021,5,25,pasajero_acompañante,moto,masculino,21,2021-05-25
+2021-0045,1,au frondizi y suarez av.,4,sin dato,multiple,autopista 1 sur presidente arturo frondizi,multiple,autopista,17:24:00,2021-0045,2021-05-26,2021,5,26,conductor,moto,masculino,22,2021-05-26
+2021-0046,1,el cano av. y guzman av.,15,sin dato,auto-objeto fijo,elcano av.,objeto fijo,avenida,02:00:00,2021-0046,2021-05-31,2021,5,31,pasajero_acompañante,auto,masculino,20,2021-05-31
+2021-0047,1,"vedia, agustin de y rabanal, francisco, intendente av.",4,sin dato,moto-auto,"vedia, agustin de",auto,avenida,16:00:00,2021-0047,2021-06-02,2021,6,2,conductor,moto,masculino,59,2021-06-02
+2021-0048,1,capdevilla y congreso av.,12,sin dato,bicicleta-auto,capdevila,auto,avenida,09:58:00,2021-0048,2021-06-03,2021,6,3,ciclista,bicicleta,masculino,44,2021-06-23
+2021-0049,1,"fernandez de la cruz, f., gral. av. 4000",8,4000.0,auto-auto,"fernandez de la cruz, f., gral. av.",auto,avenida,20:30:00,2021-0049,2021-06-03,2021,6,3,conductor,auto,masculino,74,2021-06-03
+2021-0050,1,del libertador av. 5958,13,5958.0,moto-pasajeros,del libertador av.,pasajeros,avenida,13:30:00,2021-0050,2021-06-10,2021,6,10,conductor,moto,masculino,56,2021-06-10
+2021-0051,1,27 de febrero av. y erezcano av.,4,sin dato,peaton-cargas,27 de febrero av.,cargas,avenida,19:20:00,2021-0051,2021-06-15,2021,6,15,peaton,peaton,masculino,73,2021-06-16
+2021-0052,1,"paz, gral. av. 14723",8,14723.0,moto-objeto fijo,"paz, gral. av.",objeto fijo,gral paz,05:40:00,2021-0052,2021-06-20,2021,6,20,pasajero_acompañante,moto,femenino,19,2021-06-20
+2021-0053,1,corrientes av. 5783,15,5783.0,peaton-bicicleta,corrientes av.,bicicleta,avenida,12:00:00,2021-0053,2021-06-20,2021,6,20,peaton,peaton,masculino,58,2021-06-30
+2021-0054,1,tabare y erezcano,4,sin dato,moto-cargas,tabare,cargas,calle,14:44:00,2021-0054,2021-06-22,2021,6,22,conductor,moto,masculino,41,2021-06-22
+2021-0055,1,corrientes av. y pueyrredor av.,3,sin dato,moto-cargas,corrientes av.,cargas,avenida,12:20:00,2021-0055,2021-06-29,2021,6,29,pasajero_acompañante,moto,masculino,47,2021-06-29
+2021-0056,1,"corrales y moreno, perito av.",4,sin dato,bicicleta-auto,corrales,auto,avenida,23:25:00,2021-0056,2021-07-09,2021,7,9,ciclista,bicicleta,masculino,60,2021-07-09
+2021-0057,1,"au illia km 3.2, altura cabinas de peaje",2,sin dato,auto-objeto fijo,autopista arturo illia,objeto fijo,autopista,23:30:00,2021-0057,2021-07-10,2021,7,10,conductor,auto,masculino,46,2021-07-10
+2021-0058,1,av. gral. paz y vedia,12,sin dato,peaton-auto,"paz, gral. av.",auto,gral paz,00:40:00,2021-0058,2021-07-21,2021,7,21,peaton,peaton,masculino,24,2021-07-21
+2021-0059,1,"garay, juan de av. 2269",3,2269.0,auto-objeto fijo,"garay, juan de av.",objeto fijo,avenida,01:20:00,2021-0059,2021-07-22,2021,7,22,pasajero_acompañante,auto,femenino,44,2021-07-22
+2021-0060,1,"salguero, jeronimo y rivadavia av.",5,sin dato,peaton-pasajeros,"salguero, jeronimo",pasajeros,avenida,12:30:00,2021-0060,2021-07-22,2021,7,22,peaton,peaton,femenino,80,2021-07-22
+2021-0061,1,"moreno, perito av. y alcorta, amancio av.",4,sin dato,peaton-cargas,"moreno, perito av.",cargas,avenida,09:15:00,2021-0061,2021-07-24,2021,7,24,peaton,peaton,femenino,55,2021-07-24
+2021-0062,1,la plata av. 2723,4,2723.0,auto-cargas,la plata av.,cargas,avenida,07:16:00,2021-0062,2021-07-27,2021,7,27,conductor,auto,masculino,73,2021-07-27
+2021-0063,1,"alberdi, juan bautista av. 2906",7,2906.0,auto-auto,"alberdi, juan bautista av.",auto,avenida,04:40:00,2021-0063,2021-08-02,2021,8,2,pasajero_acompañante,auto,femenino,31,2021-08-02
+2021-0064,1,"paz, gral. av. y tonelero",9,sin dato,peaton-cargas,"paz, gral. av.",cargas,gral paz,20:00:00,2021-0064,2021-08-02,2021,8,2,peaton,peaton,masculino,37,2021-08-03
+2021-0065,1,av. san juan y av. la plata,6,sin dato,peaton-pasajeros,san juan av.,pasajeros,avenida,08:30:00,2021-0065,2021-08-06,2021,8,6,peaton,peaton,femenino,63,2021-08-10
+2021-0066,1,av. lope de vega y av. gral. paz,11,sin dato,peaton-pasajeros,lope de vega av.,pasajeros,avenida,20:00:00,2021-0066,2021-08-06,2021,8,6,peaton,peaton,masculino,59,2021-08-09
+2021-0067,1,"au frondizi km 2,9 (altura brasil)",1,sin dato,moto-objeto fijo,autopista 1 sur presidente arturo frondizi,objeto fijo,autopista,09:29:00,2021-0067,2021-08-08,2021,8,8,conductor,moto,masculino,27,2021-08-08
+2021-0068,1,"beiro, francisco av. 5071",11,5071.0,moto-objeto fijo,"beiro, francisco av.",objeto fijo,avenida,06:10:00,2021-0068,2021-08-15,2021,8,15,conductor,moto,masculino,39,2021-08-15
+2021-0069,1,av. santa fe 3428,14,3428.0,peaton-auto,santa fe av.,auto,avenida,17:15:00,2021-0069,2021-08-20,2021,8,20,peaton,peaton,masculino,17,2021-08-21
+2021-0070,1,"chilavert, martiniano, coronel y varela av.",8,sin dato,moto-cargas,"chilavert, martiniano, coronel",cargas,avenida,08:30:00,2021-0070,2021-08-28,2021,8,28,conductor,moto,masculino,31,2021-08-28
+2021-0071,1,san luis 2730,3,2730.0,peaton-moto,san luis,moto,calle,16:00:00,2021-0071,2021-08-31,2021,8,31,peaton,peaton,masculino,88,2021-09-01
+2021-0072,1,callao av. y paraguay,2,sin dato,peaton-auto,callao av.,auto,avenida,19:10:00,2021-0072,2021-09-01,2021,9,1,peaton,peaton,femenino,57,2021-09-01
+2021-0073,1,"del libertador av. y agote, luis dr.",2,sin dato,bicicleta-auto,del libertador av.,auto,avenida,12:20:00,2021-0073,2021-09-18,2021,9,18,ciclista,bicicleta,femenino,76,2021-09-18
+2021-0074,1,"paz, gral. av. y balbin, ricardo, dr. av.",12,sin dato,multiple,"paz, gral. av.",multiple,gral paz,15:00:00,2021-0074,2021-09-20,2021,9,20,conductor,moto,masculino,55,2021-09-20
+2021-0075,1,salta y brasil,1,sin dato,peaton-cargas,salta,cargas,calle,14:30:00,2021-0075,2021-09-21,2021,9,21,peaton,peaton,masculino,65,2021-09-21
+2021-0076,1,"moreno, perito av. 2152",7,2152.0,moto-objeto fijo,"moreno, perito av.",objeto fijo,avenida,06:15:00,2021-0076,2021-10-16,2021,10,16,conductor,moto,masculino,31,2021-10-16
+2021-0077,1,directorio av. 1169,6,1169.0,moto-cargas,directorio av.,cargas,avenida,07:20:00,2021-0077,2021-10-18,2021,10,18,conductor,moto,femenino,31,2021-10-18
+2021-0078,1,independencia av. y la plata av.,6,sin dato,moto-pasajeros,independencia av.,pasajeros,avenida,06:35:00,2021-0078,2021-10-23,2021,10,23,conductor,moto,masculino,22,2021-10-23
+2021-0079,1,tucuman 3112,3,3112.0,peaton-auto,tucuman,auto,calle,03:30:00,2021-0079,2021-10-25,2021,10,25,peaton,peaton,masculino,0,2021-10-25
+2021-0080,1,arenales y 9 de julio av.,1,sin dato,moto-auto,arenales,auto,avenida,16:16:00,2021-0080,2021-10-28,2021,10,28,conductor,moto,masculino,32,2021-10-28
+2021-0081,1,au frondizi subida brandsen,4,sin dato,moto-cargas,autopista 1 sur presidente arturo frondizi,cargas,autopista,13:35:00,2021-0081,2021-11-02,2021,11,2,conductor,moto,masculino,26,2021-11-02
+2021-0082,1,au 25 de mayo km7 (altura pasco),3,sin dato,moto-auto,autopista 25 de mayo,auto,autopista,04:39:00,2021-0082,2021-11-06,2021,11,6,conductor,moto,masculino,38,2021-11-06
+2021-0083,1,cabildo av. y olazabal,13,sin dato,moto-auto,cabildo av.,auto,avenida,00:35:00,2021-0083,2021-11-09,2021,11,9,conductor,moto,masculino,30,2021-11-09
+2021-0084,1,tapalque y bruix av.,9,sin dato,auto-objeto fijo,tapalque,objeto fijo,avenida,03:00:00,2021-0084,2021-11-11,2021,11,11,conductor,auto,masculino,32,2021-11-11
+2021-0085,1,"paz, gral. av. y ezeiza",12,sin dato,moto-objeto fijo,"paz, gral. av.",objeto fijo,gral paz,18:30:00,2021-0085,2021-11-20,2021,11,20,conductor,moto,masculino,49,2021-11-20
+2021-0086,1,rivadavia av. y puan,6,sin dato,peaton-pasajeros,rivadavia av.,pasajeros,avenida,10:10:00,2021-0086,2021-11-25,2021,11,25,peaton,peaton,masculino,75,2021-11-25
+2021-0087,1,esmeralda 1359,1,1359.0,peaton-bicicleta,esmeralda,bicicleta,calle,11:22:00,2021-0087,2021-11-27,2021,11,27,peaton,peaton,femenino,73,2021-11-27
+2021-0088,1,av. moroe y 3 de febrero,13,sin dato,moto-auto,monroe,auto,calle,15:40:00,2021-0088,2021-12-01,2021,12,1,conductor,moto,masculino,45,2021-12-07
+2021-0089,1,av. gaona 3655,11,3655.0,moto-auto,gaona av.,auto,avenida,01:10:00,2021-0089,2021-12-02,2021,12,2,conductor,moto,masculino,41,2021-12-11
+2021-0090,1,av. 9 de julio y lavalle,1,sin dato,peaton-pasajeros,9 de julio av.,pasajeros,avenida,11:45:00,2021-0090,2021-12-10,2021,12,10,peaton,peaton,masculino,73,2022-01-03
+2021-0091,1,baigorria y victor hugo,10,sin dato,moto-auto,baigorria,auto,calle,23:00:00,2021-0091,2021-12-11,2021,12,11,conductor,moto,masculino,24,2021-12-11
+2021-0092,1,av. rivadavia y av. pueyrredon,3,sin dato,peaton-auto,rivadavia av.,auto,avenida,06:20:00,2021-0092,2021-12-12,2021,12,12,peaton,peaton,femenino,50,2021-12-12
+2021-0093,1,av. riestra y mom,7,sin dato,moto-auto,riestra av.,auto,avenida,17:10:00,2021-0093,2021-12-13,2021,12,13,pasajero_acompañante,moto,femenino,18,2021-12-18
+2021-0094,1,au dellepiane y lacarra,9,sin dato,moto-auto,"dellepiane, luis, tte. gral.",auto,autopista,01:10:00,2021-0094,2021-12-20,2021,12,20,pasajero_acompañante,moto,femenino,43,2021-12-20
+2021-0095,1,av. gaona y terrada,11,sin dato,moto-cargas,gaona av.,cargas,avenida,00:43:00,2021-0095,2021-12-30,2021,12,30,conductor,moto,masculino,27,2022-01-02
+2021-0096,1,av. eva peron 4071,9,4071.0,auto-cargas,"peron, eva av.",cargas,avenida,10:30:00,2021-0096,2021-12-15,2021,12,15,conductor,auto,masculino,60,2021-12-20
+2021-0097,1,padre carlos mujica 709,1,709.0,bicicleta-auto,padre carlos mujica,auto,calle,06:10:00,2021-0097,2021-11-18,2021,11,18,ciclista,bicicleta,masculino,53,2021-11-19
