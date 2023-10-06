@@ -5,7 +5,7 @@
 
 ![image](https://github.com/RosanaBruschini/Proyecto_siniestros_viales/assets/110840020/de660f66-9a6d-4f19-a20d-3f0228cc944c)
 
-# detalle de archivos/carpeta 📚
+# Detalle de archivos/carpeta 📚
 * Carpeta (imágenes): imagenes ilustrativas(png/jpg), PDF archivo complementario como fuente de información de contexto.
 * Archivos
 * homicidios.xlsx : archivo original
@@ -48,7 +48,7 @@ En el proceso de análisis de los datos contenidos en los DataFrames "df_hechos"
 
 → *Transformación en CSV y Almacenamiento:*   se procedió a transformar "df_hechos_victimas," en un archivo CSV. y almacenado en la carpeta de trabajo.
 
-2. ## Análisis Métrico y Visualización de Datos para la Evaluación de KPIs 🔍 :
+2. ## Análisis de métricas y Visualización de Datos 🔍 :
 Esta etapa fue  clave en el proceso de análisis, ya que permitió profundizar en la comprensión de los datos y extraer información relevante que contribuyó a la evaluación de los Key Performance Indicators (KPIs) 
 
 Durante esta etapa, se llevaron a cabo una serie de cálculos y análisis estadísticos para obtener métricas significativas, las cuales, abarcaron una amplia gama de aspectos, desde resúmenes estadísticos básicos hasta medidas más avanzadas y específicas según los requisitos del proyecto. Se seleccionaron los siguientes graficos para visualizar de forma apropiada los datos buscados: barras, barras agrupadas, dispersión 
@@ -56,14 +56,14 @@ Durante esta etapa, se llevaron a cabo una serie de cálculos y análisis estad�
 Una vez que se obtuvieron estas métricas, se procedió a visualizarlas a través de gráficos y representaciones visuales. Estos gráficos proporcionan una visión intuitiva y clara de los patrones, tendencias y relaciones presentes en los datos. Al examinar estos gráficos, podemos identificar insights y tendencias que ayudaron a comprender mejor los KPIs y, en última instancia, a tomar decisiones informadas y estratégicas basadas en los datos.
 
 
-3. ## Transferencia de Datos entre Python y MySQL y Conexión a Power BI De Python a MySQL 🔧:
+3. ## Carga incremental desde Python a MySQL | MySQL a Power BI🔧:
 Se creó un archivo denominado " carga_incremental.ipynb", donde se estableció la carga incremental mediante una conexión entre Python y una base de datos creada en MySQL, donde además, se diseñó la estructura de la tabla para asegurarse de que coincidiera con la estructura de los datos en Python que se transfirieron.
 Luego, utilizando la librería de Python pymysq , se realizó la transferencia de datos desde Python a MySQL. 
 
 * De MySQL a Power BI :
 Se configuró una conexión en Power BI para acceder a la base de datos MySQL que contenía los datos transferidos desde Python. 
 
-4. ## Análisis de KPIs y Tendencias de Comportamiento  en python 📋📈
+4. ## Análisis de KPIs y Tendencias de Comportamiento en python 📋📈
 En el archivo "KPIs.ipynb", se realizaró la visualización y el análisis de los Key Performance Indicators (KPIs)., Se utilizó la librería  matplotlib, seaborn o alguna otra librería de visualización de datos en Python para crear gráficos que representaran los dos KPIs solicitados. Estos gráficos permitieron visualizar claramente las tendencias y los valores de los KPIs a lo largo del tiempo o en el contexto específico en el que se estaban evaluando. La visualización de los KPIs es fundamental para comprender su desempeño y su evolución.
 
 * Creación de un Tercer KPI: además de los KPIs solicitados, se creó un tercer indicador de rendimiento (KPI), el cual se diseñó con el propósito de complementar y enriquecer la evaluación de los KPIs otorgados como requerimiento básico, logrando una perspectiva más completa y profunda del comportamiento de los datos o de la conducta de un sistema en particular.
@@ -71,7 +71,7 @@ En el archivo "KPIs.ipynb", se realizaró la visualización y el análisis de lo
 
 * Visualización de los KPIs: se buscó examinar cómo los KPIs en función de los posibles gráficos, se explorose comportan a lo largo del tiempo como también en función de otras variables como franja horaria, tipo de calles, sexo, edad, entre otras. El análisis de tendencias permitió identificar patrones, fluctuaciones y posibles factores que influyen en el rendimiento de los KPIs.
 
-5. ## Análisis de KPIs y Tendencias de Comportamiento  en Power Bi 📊
+5. ## Despliegue en Power Bi | Análisis de KPIs y Tendencias 📊
 
 El enfoque se centró en el análisis de las tendencias de comportamiento de los KPIs. Esto implicó examinar cómo los KPIs se comportan a lo largo del tiempo como también en función de otras variables como franja horaria, tipo de calles, sexo, edad, entre otras. Esto permitió identificar patrones, fluctuaciones y posibles factores que podrían estar relacionados a las causas del problema. 
 Se diagramó una lógica que parte de lo general, desde los gráficos seleccionados, que permite ubicar una información particular en el tiempo, para no perder contexto de la información. Asimismo la visualización de los KPIs se complementaron con los hallazgos encontrados en las metricas realizadas con Python.
