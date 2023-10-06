@@ -1,22 +1,23 @@
-                                                                                                                                                      * Linkedin: https://www.linkedin.com/in/robruschini/ 📢
-# 🏍️ 🚨 Proyecto_siniestros_viales 🚗🚦
-💻 Data Analyst -  Dashboard💡
+ * Linkedin: https://www.linkedin.com/in/robruschini/ 📢
+   # 🏍️ 🚨 Proyecto_siniestros_viales 🚗🚦
+ ## Período comprendido entre el 2016 | 2021 en la Ciudad Autónoma de Buenos Aires 📅
+## 💻 Data Analyst -  Dashboard💡
 
 ![image](https://github.com/RosanaBruschini/Proyecto_siniestros_viales/assets/110840020/de660f66-9a6d-4f19-a20d-3f0228cc944c)
 
 # detalle de archivos/carpeta 📚
-→ Carpeta (imágenes): imagenes ilustrativas(png/jpg), PDF archivo complementario como fuente de información de contexto.
+* Carpeta (imágenes): imagenes ilustrativas(png/jpg), PDF archivo complementario como fuente de información de contexto.
 * Archivos
-→ homicidios.xlsx : archivo original
-→ homicidiosEDA.ipynb : se transforma en DF para realizar ETL y EDA, luego a csv.
-→ df_hechos_victimas.csv: resultado del archivo homicidiosEDA.ipynb, para trabajar métricas y KPIs (se realizan métricas)
-→ carga_incremental: se generón la conexión y carga a MsQL
-→ proyecto_pbi.sql: archivo creado con el DATABASE y estructura de la tabla.
-→ KPIs.ipynb : se realiza la medición de 3 KPIs y la construcción de pequeños archivos con métricas para ser transformado a csv.
-→ KPIs1_df.csv : se un csv con las variables obtenidas 
-→ KPIs_3.csv : se un csv con las variables obtenidas 
-→ KPIs2.csv :se un csv con las variables obtenidas 
-→ mhora.csv: se un csv con las variables obtenidas 
+* homicidios.xlsx : archivo original
+* homicidiosEDA.ipynb : se transforma en DF para realizar ETL y EDA, luego a csv.
+* df_hechos_victimas.csv: resultado del archivo homicidiosEDA.ipynb, para trabajar métricas y KPIs (se realizan métricas)
+* carga_incremental: se generón la conexión y carga a MsQL
+* proyecto_pbi.sql: archivo creado con el DATABASE y estructura de la tabla.
+* KPIs.ipynb : se realiza la medición de 3 KPIs y la construcción de pequeños archivos con métricas para ser transformado a csv.
+* KPIs1_df.csv : se un csv con las variables obtenidas 
+* KPIs_3.csv : se un csv con las variables obtenidas 
+* KPIs2.csv :se un csv con las variables obtenidas 
+* mhora.csv: se un csv con las variables obtenidas 
 
 
 
@@ -101,7 +102,7 @@ Se desarrolló una tercera página que contiene un tooltip interactivo vinculado
 ##  Informe👍 | Conclusiones 📊 
 Durante el período comprendido entre 2020 y 2021, la Ciudad Autónoma de Buenos Aires experimentó un incremento significativo en cuanto a accidentes viales hacia el último año. Según los datos obtenidos, se observó un aumento importante en accidentes mortales durante el 2021 respecto al 2020, donde se documentó una suba del 11,6 % y un 11.49% contemplando el mismo período en accidentes sin desenlace fatal. La diferencia puede ser justificada debido a que implementación de la cuarentena como medida para contener la propagación del coronavirus tuvo un fuerte impacto en la circulación vehicular y, como resultado redujo drásticamente los accidentes de tránsito, ya que no se reportaron víctimas viales en los últimos 61 días dentro del primer cuatrimestre del 2020. (Fuente: Diario digital Perfil, mayo 2020).
 Dentro del período se hicieron diversas mediciones mediante el cruce de variables para comprender tendencias y patrones sobre los datos que crean el escenario a explorar y analizar.
-* Detalle del análisis (2021)
+## Detalle del análisis (2021)
 Se buscaron las zonas más afectadas, con el fin de entender las particularidades de cada una y a partir de ello interpretar el grado de afección y posibles medidas a tomar por el responsable. Para lo cual se determinó analizar las 5 comunas(*referencia de comunas por barrio) con mayor incidencia de accidentes durante el 2021, donde las tres más rankeadas denotaron un comportamiento similar: comuna 1 (10.67%), comuna  3 y 9  ( 10.11%), Comuna 4( 9.55%) y Comuna 8( 7.87%), las cuales demuestran estar en un rango similar en cuanto a porcentaje arrojado, a partir de allí la cantidad de accidentes en el resto de las comunas baja drásticamente.
 Es importante mencionar que el porcentaje de accidentes mortales por tipo de Víctima (ciclista, conductor, moto, auto, peaton) se vió representado de forma mayoritaria por un 46.88% por las motociclista, estos siniestros se ubican en mayor medida en avenidas,  con un total de 24 muertes dentro del 2021 equivalente al 24.74% del total de muertes(combinación: moto, tipo de calle, muertes)
 Profundizando en la investigación, se realizó una segmentación por rango horario definido en: "Mañana", "Tarde" y "Noche", buscando comprender la distribución de accidentes expresados en porcentaje, en cada franja horaria. Allí se pudo visualizar que la mayor tasa de accidentes ocurre a la noche (45.36%), seguida por la franja de la mañana (29.90%) y con la menor participación el turno de la tarde (24.74%). Asimismo, mediante el cruce de variables se pudo visualizar que el mayor porcentaje de accidentes contemplando el sexo (M/F) y rol de la víctima (ciclista  conductor  pasajero_acompañante peaton), son  conductores hombres en un % 44.33(moto , auto). Mientras que el mayor porcentaje de accidentes contemplando el sexo (M/F) y acusado ( auto, bicicleta, moto), se define a los hombres conductores de autos,  con un % 25.78 como los mayores causantes de accidentes de tránsito.
@@ -125,19 +126,19 @@ Se pone a disposición la información con el fin de aportar en la toma de decis
 
 
 # Referencias de comunas representativas dentro del informe
-Comuna 1. Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución.
-Comuna 2. Recoleta.
-Comuna 3. Balvanera y San Cristóbal.
-Comuna 4. La Boca, Barracas, Parque Patricios, y Nueva Pompeya.
-Comuna 5. Almagro y Boedo.
-Comuna 6. Caballito.
-Comuna 7. Flores y Parque Chacabuco.
-Comuna 8. Villa Soldati, Villa Riachuelo, Villa Lugano
-Comuna 9. Liniers, Mataderos, Parque Avellaneda
-Comuna 10. Villa real, Monte Catro, Versalles, Floresta Velez Sardfield, Villa Luro
+*Comuna 1. Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución.
+*Comuna 2. Recoleta.
+*Comuna 3. Balvanera y San Cristóbal.
+*Comuna 4. La Boca, Barracas, Parque Patricios, y Nueva Pompeya.
+*Comuna 5. Almagro y Boedo.
+*Comuna 6. Caballito.
+*Comuna 7. Flores y Parque Chacabuco.
+*Comuna 8. Villa Soldati, Villa Riachuelo, Villa Lugano
+*Comuna 9. Liniers, Mataderos, Parque Avellaneda
+*Comuna 10. Villa real, Monte Catro, Versalles, Floresta Velez Sardfield, Villa Luro
 
 # Anexos:
-Censo CABA 2022: https://censo.gob.ar/index.php/datos_provisionales/
-Comunas CABA: https://buenosaires.gob.ar/comunas
-Nota Perfil:https://www.perfil.com/noticias/actualidad/otra-cara-cuarentena-ciudad-buenos-aires-lleva-61-dias-sin-accidentes-transito-fatales.phtml
-Plan de Seguridad Vial de la Ciudad 2020-2023: https://buenosaires.gob.ar/plan-de-seguridad-vial-de-la-ciudad-2020-2023
+*Censo CABA 2022: https://censo.gob.ar/index.php/datos_provisionales/
+*Comunas CABA: https://buenosaires.gob.ar/comunas
+*Nota Perfil:https://www.perfil.com/noticias/actualidad/otra-cara-cuarentena-ciudad-buenos-aires-lleva-61-dias-sin-accidentes-transito-fatales.phtml
+*Plan de Seguridad Vial de la Ciudad 2020-2023: https://buenosaires.gob.ar/plan-de-seguridad-vial-de-la-ciudad-2020-2023
