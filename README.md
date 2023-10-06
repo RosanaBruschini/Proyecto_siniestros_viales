@@ -16,8 +16,8 @@
 * KPIs.ipynb : se realiza la medición de 3 KPIs y la construcción de pequeños archivos con métricas para ser transformado a csv.
 * KPIs1_df.csv : se un csv con las variables obtenidas 
 * KPIs_3.csv : se un csv con las variables obtenidas 
-* KPIs2.csv :se un csv con las variables obtenidas 
-* mhora.csv: se un csv con las variables obtenidas 
+* df_KPI2.csv :se un csv con las variables obtenidas 
+* rango_hora.csv: se un csv con las variables obtenidas 
 
 
 
