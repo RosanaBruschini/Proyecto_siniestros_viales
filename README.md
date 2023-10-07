@@ -74,6 +74,7 @@ En el archivo "KPIs.ipynb", se realizaró la visualización y el análisis de lo
 
 El enfoque se centró en el análisis de las tendencias de comportamiento de los KPIs. Esto implicó examinar cómo los KPIs se comportan a lo largo del tiempo como también en función de otras variables como franja horaria, tipo de calles, sexo, edad, entre otras. Esto permitió identificar patrones, fluctuaciones y posibles factores que podrían estar relacionados a las causas del problema. 
 Se diagramó una lógica que parte de lo general, reflejada en los gráficos seleccionados, que permite ubicar una información particular en el tiempo, para no perder el contexto de la información. Asimismo la visualización de los KPIs se complementaron con los hallazgos encontrados en las metricas realizadas con Python.
+Por otra parte, con el fin de generar un optimo desempeño y calculos, se realizó una tabla calendario, nuevas medidas, medidas rápidas, transformación de columnas. Asimismo se contó con pequeños archivos csv con datos seleccionados , mas pequeños para una mejor manipulación.
 
 → * Portada:
 Se diseñó una portada llamativa que incluye una imagen representativa de la Ciudad de Buenos Aires, con el icónico Obelisco en el centro. Esta imagen no solo proporciona un contexto visual atractivo sino que también sirve como un símbolo reconocible de la ciudad.
